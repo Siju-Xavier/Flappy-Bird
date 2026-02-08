@@ -78,7 +78,7 @@ function update() {
   if (cursors.space.isDown && !isGameStarted){
     isGameStarted = true;
     messageToPlayer.text =
-    `Instructions: Press the arrow up button to stay upright and don\'t hit the columns or ground `
+    `Instructions: Press the arrow up button to stay upright \nand don\'t hit the columns or ground `
   }  
   if(!isGameStarted){
     bird.setVelocityY(-160);
