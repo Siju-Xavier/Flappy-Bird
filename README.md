@@ -1,6 +1,6 @@
 # Flappy-Bird
 A simple Flappy Bird-inspired game built with Phaser 3. Control a bird, avoid obstacles, and try to fly to the end of the screen. This project was created as a learning exercise to understand game development fundamentals with the Phaser framework.
-<h1>Features<h1/>
+#Features
   
 Start Mechanic: Press the space bar to begin the game. Before that, the bird hovers in place.
 
@@ -16,7 +16,7 @@ Dynamic Instructions: On-screen text updates based on game state (start, playing
 
 Basic Physics: Arcade physics engine handles gravity, velocity, and collisions.
 
-<h1>Tech Stack<h1/>
+#Tech Stack
   
 HTML5 – structure and entry point.
 
